@@ -1,0 +1,277 @@
+
+.nav-pills{
+  font-family: Lobster;
+  font-size: 20px;
+  background-color: #003311;
+  margin-bottom: 10%;
+  opacity: .8; 
+  
+}
+
+
+
+a{
+  color:white;
+}
+
+.sectionOne{
+  background:url("https://s27.postimg.org/hski0ro3n/6coubedwg24_luis_llerena.jpg");
+  background-size:cover;
+  height:800px;
+  margin-top: -10%;
+  
+}
+
+#name1{
+  padding:0;
+  margin-top:0px;
+  color: white;
+  font-family: Montserrat;
+  
+  
+}
+
+.block{
+  background-color: #003311;
+  opacity: .8;
+  padding: 10px;
+  width: 50%;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  position: relative;
+  top: 350px;
+}
+
+
+
+.head-image{
+  height: 800px;
+  width: 100%;
+  display: block;
+  
+  }
+
+h1{
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 1.1;
+  color: #003311;
+  margin: .67em 0;
+  margin-bottom: 10px;
+}
+
+#about {
+  background-color: #f4f5f7;
+  padding-bottom: 20vh;
+  
+}
+
+.about-text{
+  margin-top: 50px;
+}
+  
+ body {
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    background-color: white;
+}
+
+.under-title {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 2px solid grey;
+  font-size: 25px; }
+
+.main-img {
+      border-radius:50%;
+      border-width: 2px;
+      margin: 30px 0 10px;
+      border-style: solid;
+      max-width:15%;
+      height:auto;
+      width:250px;
+      position: relative;
+      top: -2%;
+      margin-left: auto;
+      margin-right: auto;
+      color: white;
+}
+
+#projects {
+  background-color: white;
+  padding-bottom: 30vh;
+  
+}
+
+.projects-text{
+  margin-top: 50px;
+}
+
+.row{
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+
+
+.col-lg-4 img:hover{
+  opacity: .5;
+}
+
+.project-image {
+    max-width: 100%;
+    max-height: 100%;
+    overflow: auto;
+}
+
+.col-lg-4 h4{
+  font-size: 20px;
+}
+
+.col-lg-4 p{
+  color: grey;
+}
+
+
+.footer-distributed {
+    background-color: #003311;
+    padding-bottom: 10px;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+  width: 100%;
+  text-align: left;
+  padding: 25px 60px 20px;
+  margin-top: 80px;
+  overflow: hidden;
+}
+
+img{
+  margin-top: 10px;
+  
+}
+
+p{
+  font-size: 17px;
+}
+
+.footer-right {
+    float: right;
+    padding: 20px;
+}
+
+.footer-right p {
+    display: inline-block;
+    vertical-align: top;
+    margin: 15px 42px 0 0;
+    color: white;
+}
+
+form {
+    display: inline-block;
+}
+
+input {
+    height: 55px;
+    margin-bottom: 15px;
+}
+
+.footer-distributed form input, .footer-distributed form textarea {
+    display: block;
+    border-radius: 3px;
+    box-sizing: border-box;
+    background-color: #001a09;
+    box-shadow: 0 1px 0 0 rgba(255, 255, 255, 0.1);
+    border: none;
+    resize: none;
+    font: inherit;
+    font-size: 14px;
+    font-weight: normal;
+    color: #d1d2d2;
+    width: 400px;
+    padding: 18px;
+}
+
+textarea {
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+button {
+    border-radius: 3px;
+    background-color: #004d00;
+    color: #ffffff;
+    border: 0;
+    padding: 15px 50px;
+    font-weight: bold;
+    float: left;
+}
+
+.footer-left {
+    float: left;
+}
+
+.footer-distributed h3 {
+    margin: 0 0 10px;
+   color: white;
+   font-size: 16px;
+}
+
+.footer-distributed .footer-icons {
+    color: #ffffff;
+    margin: 0 0 10px;
+    padding: 0;
+}
+
+.footer-distributed .footer-icons a {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+    background-color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 35px;
+    margin-right: 3px;
+    margin-bottom: 5px;
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    box-sizing: border-box;
+}
+
+.fa-twitter {
+    content: "\f099";
+  color: #003311;
+  
+  
+}
+
+.fa-facebook {
+    content: "\f099";
+  color: #003311;
+  
+  
+}
+
+.fa-github {
+    content: "\f099";
+  color: #003311;
+  
+  
+}
+
+.fa-linkedin {
+    content: "\f099";
+  color: #003311;
+  
+  
+}
+
